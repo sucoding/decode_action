@@ -1,4 +1,4 @@
-//Wed Jul 03 2024 06:45:57 GMT+0000 (Coordinated Universal Time)
+//Wed Jul 03 2024 07:22:43 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 const $ = new Env("快手免费小说"),
